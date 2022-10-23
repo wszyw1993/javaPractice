@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ywz
+ *
+ */
+module JavaPractice {
+}
